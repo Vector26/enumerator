@@ -1,3 +1,3 @@
-﻿Index,Port No.,Name,Product,Script,Script Args
-1,22,SSH,,ssh2-enum-algos,
-2,22,SSH,,ssh-auth-methods,
+﻿Index,Port No.,Name,Script,Script Args
+1,22,SSH,ssh2-enum-algos,
+2,22,SSH,ssh-auth-methods,

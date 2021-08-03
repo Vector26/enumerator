@@ -7,7 +7,7 @@ params_config = {
 def main():
     ip=GetOptions.get(params_config)['data']['ip']
     obj=IPMod.IPMod(f"{ip}")
-    obj.scan()
+    obj.enum()
 
 if __name__ == '__main__':
     main()

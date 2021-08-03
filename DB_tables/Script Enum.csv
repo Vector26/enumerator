@@ -1,2 +1,2 @@
-﻿Index,Port No.,Name,Product,Script
-1,80,HTTP,,dirbEnum
+﻿Index,Port No.,Name,Script
+1,80,HTTP,dirbEnum
